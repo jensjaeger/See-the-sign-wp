@@ -37,7 +37,7 @@ class STS_Widget extends WP_Widget
   function STS_Widget()
   {
     $widget_ops = array('classname' => 'STS_Widget', 'description' => 'See the Sign advertising network Wordpress Plugin');
-    $this->WP_Widget('STS_Widget', 'The Sign', $widget_ops);
+    $this->WP_Widget('STS_Widget', 'See the Sign', $widget_ops);
   }
  
   function form($instance)
