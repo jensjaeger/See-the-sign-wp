@@ -1,0 +1,32 @@
+/*-------------------------------------------------
+SIGN
+-------------------------------------------------*/
+
+div.sign {
+	font-size: 10px;
+	margin-bottom: 15px;
+	text-align: center;
+	width: 200px;
+}
+
+div.sign h4 {
+	font-size: 9px;
+	margin-bottom: 5px;
+	border-bottom: 1px solid #efefef;
+	padding-bottom: 3px;
+	color: #666;
+}
+
+div.sign img.sign {
+	margin-bottom: 5px;
+	padding: 1px;
+}
+
+div.sign a:hover {
+	background-color: #fff;
+}
+
+div.sign p a:hover {
+	background-color: #000;
+	color: #fff;
+}
